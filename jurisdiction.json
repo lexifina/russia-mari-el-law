@@ -1,0 +1,11 @@
+{
+  "path": "ru-me",
+  "code": "RU-ME",
+  "name": "Mari El Republic",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-mari-el-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}

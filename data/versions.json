@@ -1,0 +1,791 @@
+{
+ "country": "RU-ME",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Mari El Republic: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "18b3e08f7de1dac7e58b201370d4569f7203618abe15f1c52f60efb3d5116491"
+    },
+    {
+     "from": "2015-06-18",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "f4495dd98013e8953c9a115077d745c9c293c81a1399a6773bba8356a2d5209f"
+    },
+    {
+     "from": "2015-09-29",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "8fd123a8a2a2c0418519bd31b2176fb3f11510c1b4e3e17ae9ad0185f74b2a75"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "20c212a1c5c7f91a563f6162fe198c686690611692693d6443aeaf316e0a1aec"
+    },
+    {
+     "from": "2015-10-28",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "81081bbfa3c3a609604fd06f9ee62519c424993096951ae40e92e3b7ad665500"
+    },
+    {
+     "from": "2015-12-17",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "42f0288e114681f939205d8db40855af48867b542ad822d9849ba497ca15d5a7"
+    },
+    {
+     "from": "2015-12-21",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "08e24ac2e70cd5f2a77c313381e4da1f18599e0e93d3a8d397901cb37c958344"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Mari El Republic: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "9e2dea303b31fc3a1bfbf15933c36efe852bcbc2d5284c06f656bace02d444d8"
+    },
+    {
+     "from": "2016-03-02",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "c53e3154009cb3de7fefe82293f498ba9c10e47c4b12c0bba5cdacc60d8ce683"
+    },
+    {
+     "from": "2016-04-05",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "246bb779eba451ef12ceea4e78e867d490ca719aaf391a430c309359d4639642"
+    },
+    {
+     "from": "2016-04-26",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "600a77435bfdf63b87804b47226612e582e297c33520bfc1561083610de9e852"
+    },
+    {
+     "from": "2016-06-20",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "c1fba88e618ce365acaf8992297f018008fdad68219025817545d77a71d79dd7"
+    },
+    {
+     "from": "2016-07-04",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "c07a34b23d42a935ae75bf18836458115d7fe9657b0c3a95b1500ef45e2e8c99"
+    },
+    {
+     "from": "2016-10-07",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "09677f545ab60a7ed46545d4cc2502e529376363668a8b8b98681b5a0c4a2eee"
+    },
+    {
+     "from": "2016-10-26",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "b10d54a6dc37561bff3c065d66839fc99fa371cd6fb21d1dbec6fe1cfab86260"
+    },
+    {
+     "from": "2016-12-06",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "6d586c54ddf4d6c14fe293262b15e93b2c5d6ef1d79d7ea80204ebff01167c7f"
+    },
+    {
+     "from": "2016-12-23",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "43a4b47616809317a1055252c60e33b6ac3f47d37e9c814e5514acef73da2e48"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "a2b3c0ad651ed8fa97c4cb119d519acc81f2487db0baf5c7efb3242a94922824"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "e1c2064047609e85417f5aaf0d03e4ea6df465ace43bf587174f7f609841fe73"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Mari El Republic: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "5c577e281e05e38c8a293d244d2cb130929d277da342b12066d8ce38ac9b5d05"
+    },
+    {
+     "from": "2017-03-10",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "a0cd7b3f0569f113548d93ce8572a33add1cb0ad7d080aa6dc9ad9e6ddb0238a"
+    },
+    {
+     "from": "2017-04-27",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "d725b6cfa788341e4f76b7736593ffb62214598b576dc76b6b6d56056f7dc137"
+    },
+    {
+     "from": "2017-05-24",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "ac2efb6396914fbe50a4f517c1a1eeb0118880ce16670a79a2c9db8813478c9e"
+    },
+    {
+     "from": "2017-07-31",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "f43ecf001939fac61c5701187a244e81dcfb70fee366eb118bb45dddb6c5315a"
+    },
+    {
+     "from": "2017-08-07",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "9f2bd587950cfc8365f88db6e1e1467cc999798c9da77d2bfbe3da040337968c"
+    },
+    {
+     "from": "2017-10-04",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "44192666940d9fc655151f952df7f1fdafca463bbdadd3aabac1967b1a531e5e"
+    },
+    {
+     "from": "2017-10-11",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "270ef5b60377872a0abc9a67c7afd4b79e366187d29099ee3c63ab0487e473e0"
+    },
+    {
+     "from": "2017-10-27",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "a70ed51b2d947759d6139b7fb980a47800f23d9ced4b5ec13239708aeec3834d"
+    },
+    {
+     "from": "2017-12-01",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "9247c186a87935afac7de733ebeeedc4417136a609badd47d381959a3bccadc3"
+    },
+    {
+     "from": "2017-12-04",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "9ce38b67e86b218d2152e0c09aa252080197a553114e166230d87ad8f759da14"
+    },
+    {
+     "from": "2017-12-06",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "1c8573dde75e320547ef28ed47039536f88ee498b803dd39b35ab5b6b24b63ea"
+    },
+    {
+     "from": "2017-12-07",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "071095b76da64889e7b1808d3831e5053f9a60bb2fdb597802721047c843f6ee"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "dc836640990800661014804abe4aa53813e671df8fb002a36dab77ac71ce1305"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Mari El Republic: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2018-02-27",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "ea076fe27648d89e90da58eb8c2eed544c64c1f4c944e215da71899518b24665"
+    },
+    {
+     "from": "2018-02-28",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "cc21b2d6c608ae5b7616e6c8b86f78335fd36ec3996f8cfc7866115b565dea3a"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "2a1055ff9badea659c736a45334826351b2cb9fa63a393921e156d1fcfd8899f"
+    },
+    {
+     "from": "2018-05-10",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "56fcd9a9cfbd6e00605e81feb1a62721946560b866025eb65d537cd91456e6a1"
+    },
+    {
+     "from": "2018-06-26",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "fec51b5b3b2c29625417211d72cf5bd0794b6168c2e70ecbe01e6380b6367eea"
+    },
+    {
+     "from": "2018-07-27",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "be7e16bccbc6916a8da115512fcf5b23388ba97619d3e10a62c1a579dd5cf55c"
+    },
+    {
+     "from": "2018-09-26",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "af4cc07a29f8ed5a0cdd0de52aa15223885df4b49b54139194b1a4f48fc1580d"
+    },
+    {
+     "from": "2018-11-02",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "e0150e4610e514653bc0afb4c218cec6598b155c54b8c7846363fde28d36e0ae"
+    },
+    {
+     "from": "2018-11-06",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "054811c07da52ad155af8adad62ae7877ecc3339934f5f5b06106cf95151a80a"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "43517d47ceed2176537b312e75af43164a80b049baa55516d17426f1e35541b3"
+    },
+    {
+     "from": "2018-12-24",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "5696a6e172eabbbf6836e52ece630ec0b7328415ea97f14f4b7f1058f2dcdc95"
+    },
+    {
+     "from": "2018-12-28",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "b998da49fd204c9aed25ad44d87d30208a03cf511651fafb70c7a6a7d26d9698"
+    },
+    {
+     "from": "2018-12-29",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "20d41e840d7b8b64638a82ac311a55e88e3a273e5fa22b72c33a74b2d6d849ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Mari El Republic: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "2cc2c65ad4d785652a72a327ce1c5e1b4dbd3770f8ed8475db7d2da9b852f1d3"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "71c798138a19d39d09f232a9f70dfe82a9d022c771249afc2ce02852d83328e9"
+    },
+    {
+     "from": "2019-04-04",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "7a6b360a1593738bf6b9b36b5575db93bb7726089d97887fde431082eac94fe9"
+    },
+    {
+     "from": "2019-04-19",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "62bb00547dcd32153e33791d8bb2f2f7b5c78f3a5c4b220b86429baf6729c782"
+    },
+    {
+     "from": "2019-06-11",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "2e729b0a0979fdefbbf931b588c9f845b77788cf0c4ec33cabeee4dcfc8be59c"
+    },
+    {
+     "from": "2019-07-30",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "491434a4cefb7628ffa5087a556e57573b7f3f55ca24d8ff8f61abef41fe4abf"
+    },
+    {
+     "from": "2019-09-04",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "b1558095f70cb74db46549bd558034e06c80ebc3185fd47643e316df8802461f"
+    },
+    {
+     "from": "2019-10-04",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "9a64cca1c1152d440de667242c72d4d42500a3623633af8d42099646efc2147b"
+    },
+    {
+     "from": "2019-11-07",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "c8572adf89c80e1cc9195ab00656729806ab7c37695e7211502cc769013b2a7c"
+    },
+    {
+     "from": "2019-11-26",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "54fca7624b697fdf5bfbbdf786df22ee67571e3cd323fd109acb4bcabae327f9"
+    },
+    {
+     "from": "2019-12-03",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "35187103530054fc65b01b6a54ac687435b6d82e6a64fc8c5d25a427a6813a04"
+    },
+    {
+     "from": "2019-12-06",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "944fa1225a414cd217f463a24845413f55dc8311fec10dd32eaf5781dc809e04"
+    },
+    {
+     "from": "2019-12-31",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "8372475958adf3d3e00b45fd95d3329be6a17ae5d03489289500b62c02ea0150"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Mari El Republic: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "1b9615b92ea2edffa69bcfb26ad80653d9440f7feee2a0a5d612464c14554a54"
+    },
+    {
+     "from": "2020-04-10",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "32d1b98ef9dcc6c9fc4f58c3efdc3b715b3d3aa02b2877b90efed49dcdb4a640"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "6170992072b776fb7ff0f24ed2ce559dfa25d1bbdb1f77bbf978fcdf01db6846"
+    },
+    {
+     "from": "2020-08-05",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "eab41c354111871275c523bd86a19720a258951913319536e4b8da9e3a8ede3d"
+    },
+    {
+     "from": "2020-09-14",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "70d0f0cae3a6b975975792e58f7ace7d73a1b5a79101a0f3ff86f5b47d119543"
+    },
+    {
+     "from": "2020-11-06",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "67c6017e6e6594767e1f18a34f2e9297f502a35cae13037ba24765484c7a9f41"
+    },
+    {
+     "from": "2020-12-15",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "6e526257dd3ef49b28669e3d11888eac80d77f68929ba568344fa957fa21fdab"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "9cee833f717e2df760f278fb31b0d6e7a453878725d2f8bf340f3409d7b52ea0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Mari El Republic: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2021-01-03",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "5ca04068a695a4de474c8ad49f25b7671dceb8ac53ff3be6e80b5054eafb872c"
+    },
+    {
+     "from": "2021-03-04",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "c48bac1d7e8c5ea979265cb8828804eef1c93cf0940e46e2530fee16ca70dbaf"
+    },
+    {
+     "from": "2021-05-06",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "81c67d4bf8c4e99e2840c1946ff2c1d8496e167f6c7475c967654ef86dd6a78d"
+    },
+    {
+     "from": "2021-05-31",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "a4468046ce717aad916a752c4f4a4b7bb001916d8ae1ce4c837b26fbe36c5cd6"
+    },
+    {
+     "from": "2021-07-07",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "a3bc517b2765a48b7f350f5d39bd7a942e229dba4eb9df44f7239ba3961c3649"
+    },
+    {
+     "from": "2021-09-28",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "61c49c574fac33f17311be6bcad77043d9ddf8de49323988d270149c37033dfc"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "f4c8515feb1a6416b5ad8bad968393ad96fda72cd26533677406d41c3baa2b40"
+    },
+    {
+     "from": "2021-12-06",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "7516ceb817de09258b4a483b24ec337319f40e4ec91d8cbc5797db410f844b2f"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "785cdf4004cd4739cbca6578fc798767c7446a4625314c78c3cd6ecfe55b9240"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Mari El Republic: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "6359b42772e768b6bcc9994573e42f6516c11bc52f9007cbb1ed4b8951033db4"
+    },
+    {
+     "from": "2022-05-26",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "0e860b18713bf96205cb568ff685dbfa3939c050485e2d4dddb35b9dcaa87f76"
+    },
+    {
+     "from": "2022-05-31",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "6a41da8e2be47686bdde5dc3f1cdf5fb68865cb0fe931f745254b718c76dd0e4"
+    },
+    {
+     "from": "2022-07-06",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "05a797ae0af058b698712ec32ad155d22ed2c30a2633397030a5515b8ed894ed"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "f555602d91f38c9a883defb3adbfd5381ac2c8463de27d7ff71b56aa76dc57ac"
+    },
+    {
+     "from": "2022-11-02",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "3eda638237e17d5daa4a9abc6a265efd6b0648d825eb0d123578bb09d3a68993"
+    },
+    {
+     "from": "2022-12-07",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "78a638cfa5743439a6c1bcb10dd519da447108c2e614677154ee30e6f9324a75"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "0a96f99b153da8048625eeb2a6c9ca31aef1052c37afabe9bae935435a726851"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Mari El Republic: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "9d4f660253426a6ceda9c7047f8f4a73c6fdf89d3bf495df41a920edc66d3e89"
+    },
+    {
+     "from": "2023-05-03",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "145b1cf89acb6703cf7c8bd751802bdb9cb47b57c587965b670a9d2838dbeae7"
+    },
+    {
+     "from": "2023-07-10",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "63e68f22f5f1e9b7adde45a385a2aa4a545dbc949dbdb9902a4e53b95a0f5de3"
+    },
+    {
+     "from": "2023-09-05",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "de74d43dc99beac8272b75bd2014bd92ff2e76ca2c94f308ca242eb9fe0e9a90"
+    },
+    {
+     "from": "2023-10-20",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "1b608c360580dba27b699040d71376b28a2ec7e544e8eee747f70be4e7484b02"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "0de81cf0f7d95c9cda6ac3cf4c2e08bb1d6d7df0868df2e13be90838ceee9dbe"
+    },
+    {
+     "from": "2023-12-25",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "52ed9a49b1ef0c17bf3270f0180e48eb4ff4ee4c97abd95e1e9ce4939a84eaf0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Mari El Republic: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "fd3dfcd92f6cf46138b9681f45ea34cf82f57c46b3991c4260db5cd64f96a465"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "b6f032d8f9af3338edc31e6aed3c06be65ac250f79fa64d3c553b3b693075624"
+    },
+    {
+     "from": "2024-04-23",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "f22f372ab6b562e865f9560bf88c304e3092b85259bf16223b837ceda6ae0c11"
+    },
+    {
+     "from": "2024-05-31",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "47c29afde1da9872b4d9ec053636a51bd949085d4046e035365268105317c06a"
+    },
+    {
+     "from": "2024-07-15",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "ee9e14809168b1ae87c1479c3bd489db9e0c4b2d3e3a35571c9c821b36e08f66"
+    },
+    {
+     "from": "2024-09-04",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "c7869e49b82eed053741c29f0c5289f591b7f9395b80ff73ac7bb863683d54fc"
+    },
+    {
+     "from": "2024-10-04",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "bbe2c81ef51bf01cb3fbb84283ca99ae9ba82191c9fd8a2a51e1d4a368bc158f"
+    },
+    {
+     "from": "2024-11-07",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "4e15a5ae061da62ee4fb739aa1d9231597ddff4cae582d6c43a1815c09033cba"
+    },
+    {
+     "from": "2024-12-09",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "7d4f8817ffe95835019124fae0e1568c2a8b1d99d6646afed82f2363cd0d6cbf"
+    },
+    {
+     "from": "2024-12-29",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "720590f6bbe31ecd965678efe4179427d8f65a93875f232aa38de093b08ace79"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Mari El Republic: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "b2d972950bbed26869c2ab7db676e0f198f3d7a18ed9102474a4bce585f21eb3"
+    },
+    {
+     "from": "2025-04-29",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "bbfcd4082b057079fb0a1ecd20837dfa88b2d36c6fc7cbd9adf692b471fff5b7"
+    },
+    {
+     "from": "2025-06-27",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "87281b411dc8d0eeec85447d048ad3a1cbf7b27b43867fd8fac082b7d5b0019e"
+    },
+    {
+     "from": "2025-07-29",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "262125464a61ebf492ddee32f6a889af9e927f50221d647874ae488fe1745907"
+    },
+    {
+     "from": "2025-09-11",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "32c4fc10879889d6e66fec1d6fe2e44d5d98aa31159e2c04dbb7e08c43a80af1"
+    },
+    {
+     "from": "2025-11-07",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "476d8193e12701b37eb5410026842185f968cd13ca97be5b8f048c1730c15941"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "fe9086297d22ea3ce6ace94f45f5330c7952f959defbfd5ba71e73883545f032"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "792511dfcdaa679ab67aa9ec7e0e19dafdfe6a662896a6be3466921ad18811f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Mari El Republic: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "badc8164ba38b7429cd45cec34c3775df5d51fe4adeedf94132e4be443eb1b38"
+    },
+    {
+     "from": "2026-05-05",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "6f7e5ab802e143cad8abf8c6cd85f391f37f4e711abd3c3f151b08bc04f375dc"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "d07f2472dd1080b076e492a589301fd5be2e1826f67b547f3434a46ef91ca586"
+    },
+    {
+     "from": "2026-07-17",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "4b6eb85b41dbdd89674d8d2b9cd1c17d5cc6f762685d2d1307bcc8a063e07015"
+    },
+    {
+     "from": "2026-07-27",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "b1a728214d34579119d14ff40e2f9851b456b0e8f43d3cd79f99942beea349b6"
+    },
+    {
+     "from": "2026-10-28",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region12",
+     "sha256": "e87e5519f7519aafa61da5577362c1f45b1365c36597879fb0edb992eed21532"
+    }
+   ]
+  }
+ ]
+}
