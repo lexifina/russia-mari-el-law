@@ -1,6 +1,6 @@
 # Mari El Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 6 versions, from 2026-03-02 (latest in force: 2026-10-28) · <http://publication.pravo.gov.ru/documents/block/region12>
+Законы 2026 · 7 versions, from 2026-03-02 (latest in force: 2026-11-12) · <http://publication.pravo.gov.ru/documents/block/region12>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -66,6 +66,8 @@
 | Закон № 63-З | [63-z.md](63-z.md) | 1 | 2026-10-28 |
 | Закон № 64-З | [64-z.md](64-z.md) | 1 | 2026-10-28 |
 | Закон № 65-З | [65-z.md](65-z.md) | 1 | 2026-10-28 |
+| Закон № 66-З | [66-z.md](66-z.md) | 1 | 2026-11-12 |
+| Закон № 67-З | [67-z.md](67-z.md) | 1 | 2026-11-12 |
 | Закон № 7-З | [7-z.md](7-z.md) | 0 |  |
 | Закон № 8-З | [8-z.md](8-z.md) | 0 |  |
 | Закон № 9-З | [9-z.md](9-z.md) | 0 |  |
