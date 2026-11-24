@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-mari-el",
+   "kind": "legislation",
+   "name": {
+    "en": "Mari El Republic: Official Internet Portal of Legal Information (region12)",
+    "ru": "Mari El Republic: Официальный интернет-портал правовой информации (region12)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region12",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/mari-el/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-mari-el-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
