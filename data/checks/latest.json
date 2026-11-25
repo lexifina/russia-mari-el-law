@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:13:25Z",
+ "generated": "2026-11-25T07:00:55Z",
  "latest": {
   "pravo-mari-el|russia/mari-el/acts": {
    "attempt": 1,
@@ -13,32 +13,25 @@
    },
    "census": {
     "checked": 788,
-    "current": 786,
+    "current": 788,
     "gone": 0,
-    "held": 786,
-    "newest_in_repo": "2026-10-28",
-    "pending": 2,
-    "repo": 786,
+    "held": 788,
+    "newest_in_repo": "2026-11-12",
+    "pending": 0,
+    "repo": 788,
     "source_in_scope": 788
    },
-   "check_id": "ru-pravo-mari-el-20261124T141225Z",
-   "commits": {
-    "count": 2,
-    "from": "c804cc15eaaae81533ee76ef18097e3122479bc1",
-    "to": "7afbba5f45bd0a134cf55cb2257cc10071f38187"
-   },
+   "check_id": "ru-pravo-mari-el-20261125T061612Z",
+   "commits": null,
    "corpus": "russia/mari-el/acts",
    "error": null,
-   "finished": "2026-11-24T14:13:24Z",
+   "finished": "2026-11-25T06:16:36Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region12: 788 law-type documents listed (every page read); 786 held here; 2 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region12: 788 law-type documents listed (every page read); 788 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1200202611120005",
-     "1200202611120006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -46,29 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1200202611120005",
-     "1200202611120006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "788 law-type documents in block region12; newest published 2026-11-12",
    "source": "pravo-mari-el",
-   "started": "2026-11-24T14:12:25Z",
+   "started": "2026-11-25T06:16:12Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
