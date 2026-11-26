@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Mari El Republic: Official Internet Portal of Legal Information (region12) · `russia/mari-el/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:16 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 05:42 UTC**.
 - Acts held here: 788; current at the source: 788; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
