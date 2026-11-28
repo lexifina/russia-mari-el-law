@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:10:15Z",
+ "generated": "2026-11-28T06:24:34Z",
  "latest": {
   "pravo-mari-el|russia/mari-el/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 788,
     "source_in_scope": 788
    },
-   "check_id": "ru-pravo-mari-el-20261127T053749Z",
+   "check_id": "ru-pravo-mari-el-20261128T054524Z",
    "commits": null,
    "corpus": "russia/mari-el/acts",
    "error": null,
-   "finished": "2026-11-27T05:38:14Z",
+   "finished": "2026-11-28T05:45:56Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region12: 788 law-type documents listed (every page read); 788 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "788 law-type documents in block region12; newest published 2026-11-12",
    "source": "pravo-mari-el",
-   "started": "2026-11-27T05:37:49Z",
+   "started": "2026-11-28T05:45:24Z",
    "unexplained": 0,
    "update": {
     "parts": []
